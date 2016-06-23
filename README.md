@@ -10,7 +10,7 @@ Skills Learned:
 * [MapBox API](mapbox.com)
 
 ## ScreenShots
-![Firebase ScreenShot](https://github.com/hackrush/mappy/raw/master/images/fb.png "Data Collected") ![Firebase ScreenShot](https://github.com/hackrush/mappy/raw/master/images/phone.png "On Phone")
+![Firebase ScreenShot](https://raw.githubusercontent.com/hackrush/mappy/master/images/fb.png "Data Collected") ![Firebase ScreenShot](https://raw.githubusercontent.com/hackrush/mappy/master/images/phonepermission.png "On Phone")
 
 
 
